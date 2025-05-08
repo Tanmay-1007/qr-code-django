@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a_cqcs(eh0_2j)283hmqaz!wr05gu@$@n+ybmyktmydz1o!7sp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['restaurant-menu-qr-generator.onrender.com']
 
 
 # Application definition
